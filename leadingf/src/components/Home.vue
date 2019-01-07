@@ -2,7 +2,7 @@
   <div class="home">
       <Mheader>
         <i class="iconfont icon-ditu"></i>
-        <span>北京</span>
+        <span>天津</span>
         <div class="input_wrap">
           <img src="../imgs/logo.png">
           <el-input 
