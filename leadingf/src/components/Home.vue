@@ -2,7 +2,7 @@
   <div class="home">
       <Mheader>
         <i class="iconfont icon-ditu"></i>
-        <span>香港2</span>
+        <span>分支</span>
         <div class="input_wrap">
           <img src="../imgs/logo.png">
           <el-input 
